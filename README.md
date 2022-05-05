@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming  
 - 🌱 I’m currently learning Started from Basic
 - 💞️ I’m looking to collaborate on the 
-- 📫 How to reach me by this link "https://linktr.ee/SriRamAdusumilli"
+- 📫 How to reach me by this link "https://znap.link/SriRam"
 
 <!---
 SriRamAdusumilli/SriRamAdusumilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
