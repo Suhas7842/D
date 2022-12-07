@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SriRamAdusumilli
-- 👀 I’m interested in Programming..
+- 👀 I’m interested in Programming.
+- 💖 I am also passion to learn the Web Development.
+- 😎 Working as Intern in 2 Private Company and also NGO Company
 - 🌱 I’m currently learning Started from Basic of the languages.
 - ✨I am also completed the courses by the Google.
-- 🎡 and I finally want to place in Google.
 - 📫 How to reach me by this link "https://linktr.ee/sriramadusumilli"
 
 <!---
