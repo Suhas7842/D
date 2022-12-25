@@ -9,7 +9,7 @@
 
 
 
-
+<b>Studies Computer Engineering at Faculty of Engineering, RVR & JC College of Engineering. (2024 To Be Graduate)</b>
 
 
 
@@ -18,7 +18,7 @@
 
 
 - 👋 Hi, I’m @SriRamAdusumilli
-- 👀 I’m interested in Programming.
+- 👀 Studies Computer Engineering at Faculty of Engineering, Alexandria University. (2021 Graduate)
 - 💖 I am also passion to learn the Web Development.
 - 😎 Working as Intern in 1 Private Company..
 - ✨ I’m currently learning Started from Basic of the languages.
