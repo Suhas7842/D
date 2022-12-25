@@ -1,3 +1,17 @@
+![intro](https://user-images.githubusercontent.com/61102759/209456873-39b37c53-034e-44b1-b990-c55e3d894864.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @SriRamAdusumilli
 - 👀 I’m interested in Programming.
 - 💖 I am also passion to learn the Web Development.
@@ -12,4 +26,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![intro](https://user-images.githubusercontent.com/61102759/209456873-39b37c53-034e-44b1-b990-c55e3d894864.gif)
