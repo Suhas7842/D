@@ -24,9 +24,7 @@
 
 - 💖 I am also passion to learn the Web Development.
 
-- 😎 Working as Intern in 1 Private Company..
-
-- ✨ I’m currently learning Started from Basic of the languages.
+- ✨ I’m currently learning.
 
 - 📫 How to reach me by this link "https://linktr.ee/sriramadusumilli"
 
