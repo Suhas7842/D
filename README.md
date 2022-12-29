@@ -16,7 +16,7 @@
 
 
 
-<h2><img width="20"> A Little About Me</h2> 
+<h2><img width="20">About Me</h2> 
 
 - 👋 Hi, I’m @SriRamAdusumilli
 
