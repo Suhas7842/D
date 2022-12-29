@@ -4,39 +4,19 @@
 </div>
 
 
-<style type="text/css">
-.wrapper 
-{
-    /*This part is important for centering*/
-    display: grid;
-    place-items: center;
-}
-.typing-demo 
-{
-    width: 30ch;
-    animation: typing 2s steps(22), blink .05s step-end infinite alternate;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 3px solid;
-    font-family: monospace;
-    font-size: 2em;
-}
-@keyframes typing 
-{
-    from {
-        width: 0
-    }
-}
-@keyframes blink {
-    50% {
-        border-color: transparent
-    }
-</style>
-<div class="wrapper">
-    <div class="typing-demo">
-      Welcome to my Privateworld.
-    </div>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<h2><img width="20"> A Little About Me</h2> 
 
 - 👋 Hi, I’m @SriRamAdusumilli
 
