@@ -20,9 +20,9 @@
 
 - 👋 Hi, I’m @SriRamAdusumilli
 
-- 👀 <b>Studies Computer Science of Engineering, RVR & JC College of Engineering. (2024 To Be Graduate)</b><br/>
+- 👀 Studies Computer Science of Engineering, RVR & JC College of Engineering. <b>(2024 To Be Graduate)</b><br/>
 
-- 💖 I am also passion to learn the Web Development.
+- 💖 I am also passion to be a Web Designer and also Freelancing.
 
 - ✨ I’m currently learning.
 
