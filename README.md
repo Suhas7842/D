@@ -30,6 +30,15 @@
 
 
 
+<h2>
+<img width="40" src="/find.gif"> Reach me on 
+</h2>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/sri-ram-prasad-adusumilli-20088319b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sriram" height="33" width="33" /></a> &nbsp;&nbsp;
+<a href="https://github.com/SriRamAdusumilli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hisham-maged10" height="35" width="35" /></a>&nbsp;&nbsp;
+</p>
+<hr/>
+
 <!---
 SriRamAdusumilli/SriRamAdusumilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
