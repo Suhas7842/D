@@ -19,10 +19,10 @@
 <h2>About Me</h2> 
 
 - 👍Exploring knowledge since 2 years<br>
+ 
+- 🧠Diploma in Web designing (HTML,PhP,CSS,Javascript,SQL)<br>
 
--🧠Diploma in Web designing (HTML,PhP,CSS,Javascript,SQL)<br>
-
--📃Certified in Coding (C and JAVA)
+- 📃Certified in Coding (C and JAVA)
 
 - 👯 I’m looking to collaborate with other developer
 
@@ -34,7 +34,7 @@
 
 - 🥅 I have solved 50+ questions on [LeetCode](https://leetcode.com/Tony_Stark194/).
 
-- 🥅 I have 1 🌟🌟 on [CodeChef]((https://www.codechef.com/users/sri_ramprasad)) 
+- 🥅 I have 1 🌟🌟 on [CodeChef](https://www.codechef.com/users/sri_ramprasad) 
 - 
 - 📫 How to reach me by this link "https://linktr.ee/sriramadusumilli"
 
