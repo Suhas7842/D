@@ -16,16 +16,26 @@
 
 
 
-<h2><img width="20">About Me</h2> 
+<h2>About Me</h2> 
 
-- 👋 Hi, I’m @SriRamAdusumilli
+- 👍Exploring knowledge since 2 years<br>
 
-- 👀 Studies Computer Science of Engineering, RVR & JC College of Engineering. <b>(2024 To Be Graduate)</b><br/>
+-🧠Diploma in Web designing (HTML,PhP,CSS,Javascript,SQL)<br>
 
-- 💖 I am also passion to be a Web Designer and also Freelancing.
+-📃Certified in Coding (C and JAVA)
 
-- ✨ I’m currently learning.
+- 👯 I’m looking to collaborate with other developer
 
+- 🥅 2023 Goals: Learn more about web3 , DSA , C++
+
+- ⚡ Fun fact: I love to Play Games.
+
+- 🌱 I’m currently doing Competitive Programming and learning Web technologies.
+
+- 🥅 I have solved 50+ questions on [LeetCode](https://leetcode.com/Tony_Stark194/).
+
+- 🥅 I have 1 🌟🌟 on [CodeChef]((https://www.codechef.com/users/sri_ramprasad)) 
+- 
 - 📫 How to reach me by this link "https://linktr.ee/sriramadusumilli"
 
 
