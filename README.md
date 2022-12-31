@@ -31,7 +31,7 @@
 
 
 <h2>
-<img width="40" src="/find.gif"> Reach me on 
+ Reach me on 
 </h2>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/sri-ram-prasad-adusumilli-20088319b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sriram" height="33" width="33" /></a> &nbsp;&nbsp;
