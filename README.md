@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate with other developer
 
-- 🥅 2023 Goals: Learn more about web3 , DSA , C++
+- 🥅 2023 Goals: Learn more about web3 , DSA , JAVA
 
 - ⚡ Fun fact: I love to Play Games.
 
