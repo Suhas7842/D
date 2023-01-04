@@ -1,5 +1,11 @@
-<div align="Center">
+<div align = "center"><h1> Hi there <a href="https://github.com/Vishwas-10"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Sri Ram Prasad</h1></div>
+<h3 align="center">A passionate developer | Normal BTech Student!</h3>
+<p align="left"> <img align="center" alt="visitor badge" width="80px" src="https://visitor-badge.glitch.me/badge?page_id=Vishwas-10.Vishwas.10" alt="Vishwas-10"/></p>
 
+
+
+
+<div align="Center">
 ![intro](https://user-images.githubusercontent.com/61102759/209456873-39b37c53-034e-44b1-b990-c55e3d894864.gif)
 </div>
 
