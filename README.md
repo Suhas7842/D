@@ -1,4 +1,4 @@
-<div align = "center"><h1> Hi there <a href="https://https://github.com/SriRamAdusumilli"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Sri Ram Prasad</h1></div>
+<div align = "center"><h1> Hi there <a href="https://github.com/SriRamAdusumilli"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Sri Ram Prasad</h1></div>
 <h3 align="center">A passionate developer | Normal BTech Student!</h3>
 
 
