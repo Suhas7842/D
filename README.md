@@ -1,4 +1,4 @@
-<div align = "center"><h1> Hi there <a href="https://github.com/Vishwas-10"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Sri Ram Prasad</h1></div>
+<div align = "center"><h1> Hi there <a href="https://https://github.com/SriRamAdusumilli"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Sri Ram Prasad</h1></div>
 <h3 align="center">A passionate developer | Normal BTech Student!</h3>
 
 
@@ -8,7 +8,7 @@
 
 
 <div align="Center">
-![intro](https://user-images.githubusercontent.com/61102759/209456873-39b37c53-034e-44b1-b990-c55e3d894864.gif)
+<img src="https://user-images.githubusercontent.com/61102759/209456873-39b37c53-034e-44b1-b990-c55e3d894864.gif">
 </div>
 
 
@@ -26,7 +26,7 @@
 
 <h2>About Me</h2> 
 
-- 👍Exploring knowledge since 2 years<br>
+- 👍Exploring knowledge since 2.5+ years<br>
  
 - 🧠Diploma in Web designing (HTML,PhP,CSS,Javascript,SQL)<br>
 
