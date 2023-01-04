@@ -57,10 +57,9 @@ Reach me on
 </h2>
 <p align="left"> 
 <a href="https://github.com/SriRamAdusumilli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hisham-maged10" height="35" width="35" /></a>&nbsp;&nbsp;
-<a src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/absatyaprakash/">Linkedin</a>
+<a href="https://www.linkedin.com/in/sri-ram-prasad-adusumilli-20088319b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hisham-maged10" height="35" width="35" /></a>&nbsp;&nbsp;
 </p>
 <hr/>
-
 <!---
 SriRamAdusumilli/SriRamAdusumilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
