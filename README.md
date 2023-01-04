@@ -1,5 +1,5 @@
 <div align = "center"><h1> Hi there <a href="https://github.com/SriRamAdusumilli"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  I'm SriRamPrasad
 </h1></div>
 <h3 align="center">A passionate developer | Normal BTech Student!</h3>
 
@@ -24,6 +24,8 @@
 
 
 
+<hr />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/mituls%20code.gif" width="250" height="200" />
 
 
 <h2>About Me</h2> 
