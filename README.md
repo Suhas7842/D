@@ -57,7 +57,7 @@ Reach me on
 </h2>
 <p align="left"> 
 <a href="https://github.com/SriRamAdusumilli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hisham-maged10" height="35" width="35" /></a>&nbsp;&nbsp;
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absatyaprakash/)
+<a src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/absatyaprakash/">Linkedin</a>
 </p>
 <hr/>
 
