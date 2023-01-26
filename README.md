@@ -74,6 +74,62 @@
 
 
 
+
+<!---
+SriRamAdusumilli/SriRamAdusumilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+
+
+
+
+<svg fill="none" width="100%"  xmlns="http://www.w3.org/2000/svg">
+ <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .wrapper {
+          height: 100vh;
+          display: grid;
+          place-items: center;
+        }
+
+        .text {
+          width: 9ch;
+          animation: typing 1.5s steps(9), blink .5s step-end infinite alternate;
+          white-space: nowrap;
+          overflow: hidden;
+          border-right: 3px solid;
+          font-family: monospace;
+          font-size: 4em;
+          background: linear-gradient(90deg, rgba(0,241,220,1) 0%, rgba(86,115,241,1) 44%, rgba(103,68,241,1) 54%, rgba(254,0,255,1) 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+
+        @keyframes typing {
+          from {
+            width: 0
+          }
+        }
+
+        @keyframes blink {
+          from, to { border-color: transparent }
+          50% { border-color: rgba(254,0,255,1); }
+        }
+      </style>
+      <div class="wrapper">
+        <div class="text">
+          Thank You for Visiting my page.
+        </div>
+      </div>
+  </div>
+ </foreignObject>
+</svg>
+
+
+
 <h2>
 Reach me on 
 </h2>
@@ -82,10 +138,3 @@ Reach me on
 <a href="https://www.linkedin.com/in/sri-ram-prasad-adusumilli-20088319b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hisham-maged10" height="35" width="35" /></a>&nbsp;&nbsp;
 </p>
 <hr/>
-<!---
-SriRamAdusumilli/SriRamAdusumilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
