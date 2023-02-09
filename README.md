@@ -1,7 +1,7 @@
 <div align = "center"><h1> Hi there <a href="https://github.com/SriRamAdusumilli"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
   I'm SriRamPrasad
 </h1></div>
-<h3 align="center">A passionate developer | Normal B.Tech Student!</h3>
+<h3 align="center">A passionate developer | Undergraduate Student!</h3>
 
 
 
