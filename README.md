@@ -56,7 +56,7 @@ Being Standout is my hobby... Trying to be unique always is my goal..
 
 ### Languages and Tools
 <div>
- [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1677385321238?alt=media&token=d1b1796f-de06-4056-b447-f9fbca0a3384)](https://github.com/msdio/stackticon)
+ ![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1677385321238?alt=media&token=d1b1796f-de06-4056-b447-f9fbca0a3384)](https://github.com/msdio/stackticon)
 </div>
 
 
