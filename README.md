@@ -45,11 +45,11 @@ Being Standout is my hobby... Trying to be unique always is my goal..
 
 - 🌱 I’m currently doing Competitive Programming and learning Web technologies.
 
-- 🥅 I have solved 50+ questions on [LeetCode](https://leetcode.com/Tony_Stark194/).
+- 🥅 I have solved 100+ questions on [LeetCode](https://leetcode.com/Tony_Stark194/).
 
 - 🥅 I have 1 🌟🌟 on [CodeChef](https://www.codechef.com/users/sri_ramprasad) 
 
-- 📫 How to reach me by this link "https://linktr.ee/sriramadusumilli"
+- 📫 How to reach me by this link ""
 
 
 
@@ -72,12 +72,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-<h2>
-Reach me on 
-</h2>
-<p align="left"> 
-<a href="https://github.com/SriRamAdusumilli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hisham-maged10" height="35" width="35" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sri-ram-prasad-adusumilli-20088319b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hisham-maged10" height="35" width="35" /></a>&nbsp;&nbsp;
-</p>
-<hr/>
