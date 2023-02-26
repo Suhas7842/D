@@ -29,7 +29,7 @@ Being Standout is my hobby... Trying to be unique always is my goal..
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/mituls%20code.gif" width="250" height="200" />
 
 <Details open="">
-<h2>About Me</h2> 
+<Summary><b>About me</b></Summary>
 
 - 👍Exploring knowledge since 2.5+ years<br>
  
@@ -57,8 +57,9 @@ Being Standout is my hobby... Trying to be unique always is my goal..
 
 
 
-### Languages and Tools
+
 <Details open="">
+<Summary><b>Languages and Tools</b></Summary>
 <div>
  <img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1677385321238?alt=media&token=d1b1796f-de06-4056-b447-f9fbca0a3384"></img>
 </div>
