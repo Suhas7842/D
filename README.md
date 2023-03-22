@@ -47,7 +47,7 @@ Being Standout is my hobby... Trying to be unique always is my goal..
 
 - 🥅 I have solved 100+ questions on [LeetCode](https://leetcode.com/Tony_Stark194/).
 
-- 🥅 I have 1 🌟🌟 on [CodeChef](https://www.codechef.com/users/sri_ramprasad) 
+- 🥅 I have 2 🌟🌟 on [CodeChef](https://www.codechef.com/users/sri_ramprasad) 
 
 - 📫 How to reach me by this link "https://sri-ram-linktree.vercel.app/"
 
